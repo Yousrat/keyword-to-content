@@ -73,15 +73,7 @@ secrets comparison) if it's going out beyond your immediate team.
   encoded and tab-separated despite the `.csv` extension. The app tries
   multiple encodings and delimiters automatically instead of erroring out.
 
-## For your resume
 
-This is a stronger project bullet than the original CLI version, because it
-demonstrates you shipped something *usable by non-technical teammates*, not
-just a personal script:
-
-> Built and deployed an internal AI-powered SEO content tool (Python,
-> Streamlit, Claude API) that lets non-technical team members generate SEO
-> content briefs, drafts, and on-page validation reports directly from
 > Ahrefs/SEMrush exports — including automated handling of inconsistent
 > file encodings and delimiters, and token-budget-aware data trimming for
 > large competitive research exports.
